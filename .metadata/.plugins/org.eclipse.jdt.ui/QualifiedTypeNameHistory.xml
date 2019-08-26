@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="ContaCorrente"/>
 <fullyQualifiedTypeName name="Gerente"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="io.swagger.customizacao.service.ClienteService"/>
+<fullyQualifiedTypeName name="io.swagger.customizacao.util.RespostasUtil"/>
 </qualifiedTypeNameHistroy>

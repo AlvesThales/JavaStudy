@@ -4,11 +4,13 @@ public class Teste {
 
 	public static void main(String[] args) {
 
-		String nome = "Thales";
+		int a = 10;
+		int b = 3;
+		double res;
+		res = (float)a/b;
+				
 		
-		nome = "Alves";
-		
-		System.out.println(nome);
+		System.out.println("A / B = " + res);
 		
 	}
 
